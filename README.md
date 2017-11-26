@@ -1,6 +1,11 @@
 # Akamai Bot
 
-Slack bot that messages Akamai traffic
+Slack bot wich posts Akamai traffic made by ruby
+Traffic will be fetched by Akamai SOAP endpoint
+
+## Requires
+
+Ruby 2.2 (above not confirmed)
 
 ## Install
 
