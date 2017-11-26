@@ -1,6 +1,6 @@
 # Akamai Bot
 
-Slack bot wich posts Akamai traffic made by ruby
+Slack bot which posts Akamai traffic made by ruby  
 Traffic will be fetched by Akamai SOAP endpoint
 
 ## Requires
